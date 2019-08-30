@@ -1,0 +1,68 @@
+#enconding utf-8
+import logging
+from appium import webdriver
+from time import sleep
+from capability import desired_caps
+
+
+logging.basicConfig(filename='runlog.log', level=logging.INFO,
+                    format='%(asctime)s%(filename)s[line:%(lineno)d]%(levelname)s%(message)s')
+
+# 记录日志
+logging.info('start device')
+driver = webdriver.Remote(
+    "http://127.0.0.1:4723/wd/hub", desired_caps)
+driver.implicitly_wait(10)
+
+
+# 切换到测试环境
+def switchEnv():
+    driver.find_element_by_xpath(
+            "//android.widget.Button[@text='切换环境']").click()
+    sleep(1)
+    driver.find_element_by_xpath(
+        "//android.widget.CheckedTextView[@text='测试' and @index=1 ]").click()
+    driver.find_element_by_id("button1").click()
+
+
+# 登录
+def login():
+    sleep(7)
+    driver.find_element_by_id("ivHomeChildAvatar").click()
+    # 输入账号密码，并登录
+    elem1 = driver.find_element_by_id("tilLoginCellphone")
+    elems1 = elem1.find_elements_by_class_name("android.widget.FrameLayout")
+    elems1[0].clear()
+    elems1[0].send_keys(15980898177)
+    elem2 = driver.find_element_by_id("vcilTilValidateCode")
+    elems2 = elem2.find_elements_by_class_name("android.widget.FrameLayout")
+    elems2[0].clear()
+    elems2[0].send_keys('010707')
+    driver.find_element_by_id("btnLogin").click()
+
+# 反复进入“守护时间”，返回首页
+def test_timeGuard():
+    sleep(2)
+    driver.find_element_by_id("tvHomeTimeGuard").click()
+    sleep(1)
+    driver.find_element_by_class_name("android.widget.ImageButton").click()
+
+# 上滑首页
+def swipeUp():
+    x = driver.get_window_size()['width']
+    y = driver.get_window_size()['height']
+    print(driver.get_window_size())
+    print(x, y)
+    x1 = int(x*0.5)
+    y1 = int(y*0.8)
+    y2 = int(y*0.4)
+    driver.swipe(x1, y1, x1, y2, 1000)
+
+
+if __name__ == '__main__':
+    switchEnv()
+    login()
+    # for i in range(5):
+    #     test_timeGuard()
+    sleep(2)
+    swipeUp()
