@@ -1,0 +1,263 @@
+2019-09-04 06:55:28,959 desired_caps.py[line:26] INFO start app...
+2019-09-04 06:59:05,721 desired_caps.py[line:26] INFO start app...
+2019-09-05 07:30:00,242 desired_caps.py[line:26] INFO start app...
+2019-09-05 07:31:35,419 desired_caps.py[line:26] INFO start app...
+2019-09-05 07:31:58,386 common_fun.py[line:14] INFO ====check_witchEnv====
+2019-09-05 07:31:58,759 common_fun.py[line:20] INFO click switchBtn
+2019-09-05 07:32:00,100 common_fun.py[line:24] INFO ====check_confirmBtn====
+2019-09-05 07:32:00,276 common_fun.py[line:30] INFO click confirmBtn
+2019-09-08 07:33:07,614 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:35:21,442 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:35:40,702 common_fun.py[line:14] INFO ====check_witchEnv====
+2019-09-08 07:35:41,647 common_fun.py[line:20] INFO click switchBtn
+2019-09-08 07:35:43,357 common_fun.py[line:24] INFO ====check_confirmBtn====
+2019-09-08 07:35:43,528 common_fun.py[line:30] INFO click confirmBtn
+2019-09-08 07:35:43,790 loginView.py[line:21] INFO =====login_action=====
+2019-09-08 07:35:43,790 loginView.py[line:22] INFO username is: 15980898177
+2019-09-08 07:39:08,522 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:39:30,219 common_fun.py[line:14] INFO ====check_witchEnv====
+2019-09-08 07:39:30,551 common_fun.py[line:20] INFO click switchBtn
+2019-09-08 07:39:31,870 common_fun.py[line:24] INFO ====check_confirmBtn====
+2019-09-08 07:39:32,037 common_fun.py[line:30] INFO click confirmBtn
+2019-09-08 07:39:32,437 loginView.py[line:21] INFO =====login_action=====
+2019-09-08 07:39:32,438 loginView.py[line:22] INFO username is: 15980898177
+2019-09-08 07:48:13,847 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:48:40,544 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 07:48:40,961 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 07:48:42,578 common_fun.py[line:35] INFO =====check_confirmBtn=====
+2019-09-08 07:48:52,809 common_fun.py[line:39] INFO È·ï¿½ï¿½ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+2019-09-08 07:48:52,887 loginView.py[line:21] INFO =====login_action=====
+2019-09-08 07:48:52,887 loginView.py[line:22] INFO username is: 15980898177
+2019-09-08 07:53:07,244 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:53:07,326 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:53:37,493 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 07:53:47,687 common_fun.py[line:19] INFO ï¿½Ð»ï¿½ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+2019-09-08 07:53:47,687 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 07:53:58,361 common_fun.py[line:40] INFO È·ï¿½ï¿½ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+2019-09-08 07:53:58,361 loginView.py[line:21] INFO =====login_action=====
+2019-09-08 07:53:58,361 loginView.py[line:22] INFO username is: 15980898177
+2019-09-08 07:54:45,854 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:55:14,402 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 07:55:14,880 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 07:55:16,291 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 07:55:26,480 common_fun.py[line:40] INFO È·ï¿½ï¿½ï¿½ï¿½Å¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+2019-09-08 07:57:01,474 desired_caps.py[line:26] INFO start app...
+2019-09-08 07:57:27,201 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 07:57:27,520 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 07:57:29,041 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 07:57:29,341 common_fun.py[line:32] INFO click testEnv
+2019-09-08 07:57:29,896 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 07:57:30,517 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 08:03:42,977 desired_caps.py[line:26] INFO start app...
+2019-09-08 08:04:03,198 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 08:04:03,574 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 08:04:05,151 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 08:04:05,572 common_fun.py[line:32] INFO click testEnv
+2019-09-08 08:04:06,155 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 08:04:06,817 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 08:04:10,068 loginView.py[line:22] INFO =====login_action=====
+2019-09-08 08:04:10,068 loginView.py[line:23] INFO username is: 15980898177
+2019-09-08 08:40:59,752 desired_caps.py[line:26] INFO start app...
+2019-09-08 08:41:30,200 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 08:41:30,681 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 08:41:32,193 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 08:41:32,446 common_fun.py[line:32] INFO click testEnv
+2019-09-08 08:41:32,828 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 08:41:33,480 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 08:41:35,586 loginView.py[line:22] INFO =====login_action=====
+2019-09-08 08:41:35,586 loginView.py[line:23] INFO username is: 15980898177
+2019-09-08 08:43:29,792 desired_caps.py[line:26] INFO start app...
+2019-09-08 08:43:52,987 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 08:43:53,316 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 08:43:54,933 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 08:43:55,309 common_fun.py[line:32] INFO click testEnv
+2019-09-08 08:43:56,013 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 08:43:56,332 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 08:43:57,808 loginView.py[line:23] INFO =====login_action=====
+2019-09-08 08:43:57,808 loginView.py[line:24] INFO username is: 15980898177
+2019-09-08 08:45:49,452 desired_caps.py[line:26] INFO start app...
+2019-09-08 08:46:09,218 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 08:46:09,874 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 08:46:11,460 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 08:46:11,615 common_fun.py[line:32] INFO click testEnv
+2019-09-08 08:46:12,523 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 08:46:12,789 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 08:46:13,118 loginView.py[line:23] INFO =====login_action=====
+2019-09-08 08:46:13,118 loginView.py[line:24] INFO username is: 15980898177
+2019-09-08 09:46:05,908 desired_caps.py[line:26] INFO start app...
+2019-09-08 09:46:31,915 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 09:46:32,246 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 09:46:34,315 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 09:46:34,738 common_fun.py[line:32] INFO click testEnv
+2019-09-08 09:46:35,017 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 09:46:36,155 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 09:46:39,377 loginView.py[line:23] INFO =====login_action=====
+2019-09-08 09:46:39,377 loginView.py[line:24] INFO username is: 15980898177
+2019-09-08 09:56:00,310 desired_caps.py[line:26] INFO start app...
+2019-09-08 09:56:26,806 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 09:56:27,889 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 09:56:30,261 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 09:56:30,387 common_fun.py[line:32] INFO click testEnv
+2019-09-08 09:56:30,834 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 09:56:31,467 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 09:56:34,658 loginView.py[line:23] INFO =====login_action=====
+2019-09-08 09:56:34,658 loginView.py[line:24] INFO username is: 15980898177
+2019-09-08 09:57:04,725 loginView.py[line:33] INFO password is: 010707
+2019-09-08 09:57:19,715 loginView.py[line:40] INFO click loginBtn
+2019-09-08 09:57:20,747 loginView.py[line:42] INFO login finished
+2019-09-08 10:04:17,459 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:04:49,318 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:04:53,808 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:04:55,851 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:04:56,068 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:04:56,445 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:04:57,392 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:04:57,721 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:04:57,722 loginView.py[line:19] INFO username is: 15980898177
+2019-09-08 10:05:34,366 loginView.py[line:28] INFO password is: 010707
+2019-09-08 10:05:52,047 loginView.py[line:35] INFO click loginBtn
+2019-09-08 10:05:53,164 loginView.py[line:37] INFO login finished
+2019-09-08 10:26:23,611 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:26:23,615 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:26:52,632 test_login.py[line:19] INFO =====test_login_8173=====
+2019-09-08 10:26:52,632 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:26:56,064 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:26:57,718 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:26:57,919 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:26:58,411 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:26:58,881 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:26:59,423 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:26:59,423 loginView.py[line:19] INFO username is: 15980898173
+2019-09-08 10:27:04,424 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:33:06,230 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:33:06,233 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:33:31,730 test_login.py[line:9] INFO =====test_login_8171=====
+2019-09-08 10:33:31,731 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:33:32,481 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:33:34,477 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:33:34,618 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:33:35,028 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:33:35,723 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:33:36,095 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:33:36,095 loginView.py[line:19] INFO username is: 15980898171
+2019-09-08 10:33:53,105 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:34:00,305 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:34:00,309 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:34:33,861 test_login.py[line:14] INFO =====test_login_8172=====
+2019-09-08 10:34:33,861 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:34:36,220 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:34:38,182 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:34:38,420 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:34:38,990 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:34:39,295 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:34:41,531 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:34:41,531 loginView.py[line:19] INFO username is: 15980898172
+2019-09-08 10:34:46,537 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:34:55,654 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:34:55,660 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:34:57,951 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:34:57,957 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:37:48,074 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:37:48,087 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:38:14,202 test_login.py[line:9] INFO =====test_login_8171=====
+2019-09-08 10:38:14,202 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:38:14,576 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:38:16,135 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:38:16,505 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:38:17,214 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:38:17,610 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:38:21,098 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:38:21,098 loginView.py[line:19] INFO username is: 15980898171
+2019-09-08 10:38:53,496 loginView.py[line:28] INFO password is: 010707
+2019-09-08 10:39:07,841 loginView.py[line:35] INFO click loginBtn
+2019-09-08 10:39:08,887 loginView.py[line:37] INFO login finished
+2019-09-08 10:39:08,887 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:39:15,565 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:39:15,569 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:40:07,306 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:40:07,312 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:40:37,418 test_login.py[line:19] INFO =====test_login_8173=====
+2019-09-08 10:40:37,418 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:40:42,686 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:40:44,559 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:40:44,814 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:40:45,039 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:40:46,215 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:40:49,469 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:40:49,470 loginView.py[line:19] INFO username is: 15980898173
+2019-09-08 10:41:26,240 loginView.py[line:28] INFO password is: 010707
+2019-09-08 10:41:41,063 loginView.py[line:35] INFO click loginBtn
+2019-09-08 10:41:42,257 loginView.py[line:37] INFO login finished
+2019-09-08 10:41:42,257 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:48:19,170 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:48:19,173 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:48:43,334 test_login.py[line:9] INFO =====test_login_8171=====
+2019-09-08 10:48:43,334 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:48:43,909 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:48:45,599 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:48:45,824 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:48:46,123 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:48:46,969 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:48:48,239 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:48:48,239 loginView.py[line:19] INFO username is: 15980898171
+2019-09-08 10:49:21,596 loginView.py[line:28] INFO password is: 010707
+2019-09-08 10:49:35,737 loginView.py[line:35] INFO click loginBtn
+2019-09-08 10:49:36,814 loginView.py[line:37] INFO login finished
+2019-09-08 10:49:36,814 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:49:43,885 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:49:43,889 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:50:16,833 test_login.py[line:14] INFO =====test_login_8172=====
+2019-09-08 10:50:16,834 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:50:27,069 common_fun.py[line:19] INFO ÇÐ»»°´Å¥²»´æÔÚ
+2019-09-08 10:50:28,122 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:50:38,347 common_fun.py[line:30] INFO ²âÊÔ»·¾³²»´æÔÚ
+2019-09-08 10:50:38,395 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:50:50,115 common_fun.py[line:40] INFO È·¶¨°´Å¥²»´æÔÚ
+2019-09-08 10:50:50,116 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:50:50,116 loginView.py[line:19] INFO username is: 15980898172
+2019-09-08 10:50:55,119 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:51:03,504 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:51:03,510 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:51:44,952 test_login.py[line:19] INFO =====test_login_8173=====
+2019-09-08 10:51:44,953 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:51:55,764 common_fun.py[line:19] INFO ÇÐ»»°´Å¥²»´æÔÚ
+2019-09-08 10:51:56,765 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:52:06,853 common_fun.py[line:30] INFO ²âÊÔ»·¾³²»´æÔÚ
+2019-09-08 10:52:06,853 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:52:17,741 common_fun.py[line:40] INFO È·¶¨°´Å¥²»´æÔÚ
+2019-09-08 10:52:17,742 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:52:17,742 loginView.py[line:19] INFO username is: 15980898173
+2019-09-08 10:52:33,066 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:52:40,955 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:52:40,961 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:53:17,848 test_login.py[line:9] INFO =====test_login_8171=====
+2019-09-08 10:53:17,848 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:53:28,477 common_fun.py[line:19] INFO ÇÐ»»°´Å¥²»´æÔÚ
+2019-09-08 10:53:29,478 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:53:39,620 common_fun.py[line:30] INFO ²âÊÔ»·¾³²»´æÔÚ
+2019-09-08 10:53:39,621 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:53:50,940 common_fun.py[line:40] INFO È·¶¨°´Å¥²»´æÔÚ
+2019-09-08 10:53:50,940 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:53:50,940 loginView.py[line:19] INFO username is: 15980898171
+2019-09-08 10:54:06,720 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:54:21,782 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:54:21,788 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:54:50,837 test_login.py[line:14] INFO =====test_login_8172=====
+2019-09-08 10:54:50,837 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:54:53,298 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:54:55,021 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:54:55,415 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:54:55,701 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:54:56,421 common_fun.py[line:42] INFO click confirmBtn
+2019-09-08 10:54:57,040 loginView.py[line:18] INFO =====login_action=====
+2019-09-08 10:54:57,040 loginView.py[line:19] INFO username is: 15980898172
+2019-09-08 10:55:02,050 myunit.py[line:13] INFO =====tearDown=====
+2019-09-08 10:55:17,523 myunit.py[line:9] INFO =====setUp=====
+2019-09-08 10:55:17,528 desired_caps.py[line:26] INFO start app...
+2019-09-08 10:55:52,250 test_login.py[line:19] INFO =====test_login_8173=====
+2019-09-08 10:55:52,251 common_fun.py[line:15] INFO ====check_witchEnv====
+2019-09-08 10:55:54,797 common_fun.py[line:21] INFO click switchBtn
+2019-09-08 10:55:56,820 common_fun.py[line:26] INFO ====check_testEnv====
+2019-09-08 10:55:57,066 common_fun.py[line:32] INFO click testEnv
+2019-09-08 10:55:57,464 common_fun.py[line:36] INFO =====check_confirmBtn=====
+2019-09-08 10:55:58,345 common_fun.py[line:42] INFO click confirmBtn
